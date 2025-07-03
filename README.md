@@ -49,10 +49,10 @@ The project demonstrates that simple yet effective models like Logistic Regressi
 
 ## Conclusion
 This project showcases:
-✔️ End-to-end machine learning workflow
-✔️ Medical data interpretation
-✔️ Feature importance analysis
-✔️ Performance evaluation using appropriate metrics
+- End-to-end machine learning workflow
+- Medical data interpretation
+- Feature importance analysis
+- Performance evaluation using appropriate metrics
 
 ## Future Improvements
 - Hyperparameter tuning
